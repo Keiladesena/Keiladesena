@@ -1,12 +1,14 @@
-# 💻 Keila de Sena
-**`Desenvolvedora Fullstack`** <br>
+## 👩‍💻Keila de Sena
+**`Desenvolvedora Fullstack`**
+
 
 Me chamo Keila, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Análise e Desenvolvimento de sistemas na Unicesumar. Sou apaixonada por tecnológia e utilizo o GitHub para compartilhar projetos, praticar programação e registrar minha evolução na área. 
+
 <p align="left">
-      <a href="https://github.com/Keiladesena/Keiladesena">
+      <a href="https://github.com/Keiladesena">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/keiladesena?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Keiladesena/Keiladesena">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/keiladesena?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/Keiladesena">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/keiladesena?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
           <a href="https://www.instagram.com/keiladesena/">
       <img alt="instagram" title="Siga no Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%23C13584?logo=instagram&logoColor=white&style=for-the-badge&labelColor=%23C13584"/>
    </a>
@@ -15,7 +17,7 @@ Me chamo Keila, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente estou 
    </a>
 </p>
 
-
+---
 
  ### 🤖 Linguagens e Tecnologias
 
@@ -86,7 +88,7 @@ Me chamo Keila, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente estou 
  align="left" 
     alt="Excel" 
     title="Excel"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
     />
 
