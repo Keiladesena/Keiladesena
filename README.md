@@ -1,5 +1,5 @@
 ## 👩‍💻Keila de Sena
-**`Desenvolvedora Fullstack`**
+**`Web Developer in Training`**
 
 
 Olá, me chamo Keila, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Análise e Desenvolvimento de sistemas na Unicesumar. Sou apaixonada por tecnológia e utilizo o GitHub para compartilhar projetos, praticar programação e registrar minha evolução na área. 
