@@ -56,40 +56,5 @@ Olá, me chamo Keila, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     />
 
- <img 
-    align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-          />
- <img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-          />
-
- 
-
-<img 
-    align="left" 
-    alt="Vscode" 
-    title="Vscode"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-          />
-
- <img 
- align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-    />
 
 <br/>
